@@ -1,4 +1,4 @@
-# Made by Rohit Reddy
+# Made by WhiteDevil
 # start_Date: 22-04-2022
 
 import turtle
@@ -123,7 +123,7 @@ while True:
         ball.setx(-340)
         ball.dx *= -1
 
-    #ai player(remove it if one player to be an ai)
+    #ai player(remove # it if one player to be an ai)
     #if paddle_b.ycor() < ball.ycor() and abs(paddle_b.ycor() - ball.ycor()) > 10 :
     #    paddle_b_up()
 
